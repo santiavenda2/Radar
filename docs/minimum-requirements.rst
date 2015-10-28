@@ -1,4 +1,4 @@
-Minimum requiremients
+Minimum requirements
 =====================
 
 In order to run, Radar needs the `Python <https://www.python.org/>`_ interpreter (at least
